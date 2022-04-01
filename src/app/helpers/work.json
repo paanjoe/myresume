@@ -1,0 +1,138 @@
+[
+  {
+    "workPostition": "Senior Software Engineer",
+    "workType": "Permanent",
+    "workTeam": "Legal, Tax, & Consolidation",
+    "workCompany": "BASF Asia Pacific Sdn Bhd",
+    "workCompanyLogo": "https://rsb.org/wp-content/uploads/2018/03/BASF-LOGO.jpg",
+    "workDuration": "Mar 2022 - Present",
+    "workDescription" : "In the Regulation & Tax product team, I need to give consultation and support BASF business partner in low code and no code solutions. The role require for me to understands functional requirements, designing, enhance, and implementation to provide our internal business partner sustainable state-of-the-art solutions. As a software engineer, I need to manage complex development environments using both internal and external resources and providing Solution Design to the stakeholder.",
+    "workBullet": [
+      {
+        "bullet": "Ensures sustainable and stable solutions from a technical point of view together with operations."
+      },
+      {
+        "bullet": "Contributes to planning and provides cost estimations for complex projects."
+      },
+      {
+        "bullet": "Deliverable of customer-centric solutions."
+      },
+      {
+        "bullet": "Technical design and implementation of application enhancements and new applications for BASF Regulation & Tax processes."
+      }
+    ],
+    "workMethodologies": "Agile Methodologies (Main) | Waterfall (Conditional)",
+    "workResponsibilities": "30% Technical & 70% Management",
+    "workTechnology": ["Microsoft low code / no code solutions", "Develop AI Models", "Develop and manage App Services (e.g. model-driven apps, process automation apps)", "Microsoft Azure", "AI Builder", "Power Platform services", "Microsoft Power BI", "Angular", ".NET Framework", "SAP Technologies (HANA/Fiori)"]
+  },
+  {
+    "workPostition": "Full-Stack Software Developer",
+    "workType": "Contract",
+    "workTeam": "Internet Hosting",
+    "workCompany": "ExxonMobil Digital Hub",
+    "workCompanyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Exxon_Mobil_Logo.svg/2560px-Exxon_Mobil_Logo.svg.png",
+    "workDuration": "Jan 2022 - Mar 2022",
+    "workDescription" : "In ExxonMobil Internet Hosting team, my key responsibilities is to explore and develop potential software that can reduce man-hours, workload, and transforming traditional process into automation. As a developer, I have developed a couple of web applications to make a centralized configuration solution to ExxonMobil Global Business (PortMapping, HRP Network model, and more). At the same time, I was also responsible to explore and share on how to use, develop, and maintain Software Defined Perimeter (SDP) by AppGate.",
+    "workBullet": [
+      {
+        "bullet": "Develop end-to-end web applications from planning, designing, implementation, and tests."
+      },
+      {
+        "bullet": "Participate in Enterprise Architecture (EA) and Database design discussion."
+      },
+      {
+        "bullet": "VPN migration from Cisco Global Protect to Software Defined Perimeter (SDP) by AppGate - Trustless VPN software."
+      },
+      {
+        "bullet": "Participate in business discussion to identify on which area to improve, enhance, and explore."
+      }
+    ],
+    "workMethodologies": "Agile Methodologies (Main) | Waterfall (Conditional)",
+    "workResponsibilities": "70% Technical & 30% Management",
+    "workTechnology": ["ReactJS", "Software Defined Perimeter (SDP)", "Server Configuration (Linux)", "Python (Flask/FastAPI)", "NodeJS", "GitHub Enterprise", "Microsoft Azure", "Azure DevOps", "Powershell Scripting", "Splunk", "Grafana"]
+  },
+  {
+    "workPostition": "Senior Software Engineer",
+    "workType": "Permanent",
+    "workTeam": "Research & Development Team",
+    "workCompany": "Infovista Sdn Bhd",
+    "workCompanyLogo": "https://cdn.worldvectorlogo.com/logos/infovista-1.svg",
+    "workDuration": "Nov 2021 - Dec 2021",
+    "workDescription" : "As part of R&D Team at InfoVista, I was responsible to implement the best solution from stakeholder decision. The activities include exploring new feature, exploring new technologies, analysis on business requirement, software designing, code implementation, code refactoring, and various test cases. Apart from that, I also need to make sure all of our products are well documentation from technical perspective for references. Other than that, I'm also responsible to be the Acting Scrum Master if the existing Scrum Master unavailable to do daily-standup meetings, retrospective meetings, and more.",
+    "workBullet": [
+      {
+        "bullet": "Be personally responsible that the own produced software follows applicable rules and guidelines that are stated for the organization and actively counteract deviations from these, both own and others deviations."
+      },
+      {
+        "bullet": "Be personally responsible for that the quality of the own produced software are as high as possible within project constraints."
+      },
+      {
+        "bullet": "Actively share knowledge (technical and non technical) with co-workers."
+      },
+      {
+        "bullet": "Aim at finding the root cause to erroneous behaviour in the software, and as far as possible remove the root cause (not the symptom)."
+      }
+    ],
+    "workMethodologies": "Agile Methodologies",
+    "workResponsibilities": "80% Technical & 20% Management",
+    "workTechnology": ["Angular 10+", ".NET C#", ".NET CORE 3+", "GoLang", "Microsoft SQL", "Microsoft Azure", "Azure DevOps", "Kubernetes", "RedHat Openshift 6+", "Confluence Atlassian", "NodeJS", "Karma-Jasmine Unit Test", "Grafana"]
+  },
+  {
+    "workPostition": "Senior System Analyst",
+    "workType": "Contract",
+    "workTeam": "Payment - Real-Time Payment Solution",
+    "workCompany": "Employee Provident Fund (EPF) Malaysia",
+    "workCompanyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/KWSP_New_Logo_2.svg/1200px-KWSP_New_Logo_2.svg.png",
+    "workDuration": "May 2020 - Oct 2021",
+    "workDescription" : "EPF is aiming to transform its business into Digital landscape where it focuses on customer centricity and omni-channel solution. Real-Time Payment Platform (RPP) is a newly created team and I was assigned to develop the framework of this team and also a solutions. Main responsibility for me is to plan the team's KPI, layout the project objective, ROI projection to EPF, cost analysis, and also qualitative and quantitative benefits of this solutions. EPF would like to shift its traditional payment solution into Real-Time payment solution by on-boarding the DuitNow apps, an initiative from Bank Negara Malaysia (BNM).",
+    "workBullet": [
+      {
+        "bullet": "Plan and develop Payment Framework and also team's capacity."
+      },
+      {
+        "bullet": "Fully responsible to on-board DuitNow solution by engaging with PayNet as a stakeholder by gathering requirement, compliance guideline, and more."
+      },
+      {
+        "bullet": "Transparent vendor management using ARIBA by inviting potential solution provider and fully manage the whole procurement process from RFI, RFP, Evaluation, RFQ, and Project Kick-Off."
+      },
+      {
+        "bullet": "Key-person to present the strategic plan, project overview/progress, business/technical requirement, and more to CXO's (Top Management) and get their endorsement for each step."
+      },
+      {
+        "bullet": "Involvement as senior analyst in Government-EPF Withdrawal schenme for Covid-19 Initiative which is iLestari, iSinar, and iCitra."
+      }
+    ],
+    "workMethodologies": "Waterfall Methodologies",
+    "workResponsibilities": "90% Management & 10% Technical",
+    "workTechnology": ["Vendor Management", "Project Management (ISO Standard)", "AS400/Mainframe", "Presentation/Slides skills", "Enterprise Service Bus (ESB)", "Kubernetes", "RedHat Openshift 6+", "Negotiation Skills", "Politics skill"]
+  },
+  {
+    "workPostition": "Senior Executive",
+    "workType": "Permanent",
+    "workTeam": "Application Solution Unit",
+    "workCompany": "Securities Commission Malaysia",
+    "workCompanyLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Securities_Commission_Malaysia.svg/440px-Securities_Commission_Malaysia.svg.png",
+    "workDuration": "Dec 2016 - Apr 2020",
+    "workDescription" : "My very first job after graduation! As part of the Application Solution Unit, I was first exposed to maintain and enhance existing application according to the business or technological needs. As time goes by, my responsibilities increase with Digital Transformation agenda. A lot of new technologies was introduced to the team and organization such as Cloud technology, JavaScript framework (ReactJS/Angular), and more. This help our unit to improve a lot of web apps (300+ apps) from static sites into more responsive and dynamic web apps. This further enhance our stakeholder experience when using the apps.",
+    "workBullet": [
+      {
+        "bullet": "Fully responsible on full-stack development of internal and external web applications for organizations."
+      },
+      {
+        "bullet": "Work closely with team members, improving the business process, technological suitability, workflow, and also scalable."
+      },
+      {
+        "bullet": "Work closely with other units in designing software architecture, configuring web server, troubleshooting databases and more to ensure the applications run smoothly."
+      },
+      {
+        "bullet": "Continious business support on internal and external web apps."
+      },
+      {
+        "bullet": "Continious effort in ensuring web apps are well maintained, updated, and free from malicious activities."
+      }
+    ],
+    "workMethodologies": "Waterfall Methodologies (Main) | Agile Methodologies (Conditional)",
+    "workResponsibilities": "60% Management & 40% Technical",
+    "workTechnology": [".NET Framework", "ASP.NET", "C#", ".NET Core 2+", "VB.NET", "Microsoft SQL", "IIS Server", "Angular 3+", "Selenium Automation", "HangFire", "Capital Market & Investment"]
+  }
+]

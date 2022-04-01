@@ -1,0 +1,44 @@
+[
+  {
+    "edu_university": "Universiti Teknologi PETRONAS",
+    "edu_logo": "",
+    "edu_qualification": "Bachelor of Technology (Hons) in Information Communication & Technology (ICT)",
+    "edu_year": "2013-2016",
+    "edu_results": "CGPA 3.23"
+  },
+  {
+    "edu_university": "Universiti Teknologi PETRONAS",
+    "edu_logo": "",
+    "edu_qualification": "Foundation in Technology",
+    "edu_year": "2012-2013",
+    "edu_results": "CGPA 2.91"
+  },
+  {
+    "edu_university": "SMK Syed Mohamed Al-Bukhary",
+    "edu_logo": "",
+    "edu_qualification": "Sijil Pelajaran Malaysia (SPM)",
+    "edu_year": "2010-2011",
+    "edu_results": "1A+ 2A 4B+ 1B"
+  },
+  {
+    "edu_university": "SMK Syed Mohamed Al-Bukhary",
+    "edu_logo": "",
+    "edu_qualification": "Penilaian Menengah Render (PMR)",
+    "edu_year": "2007-2009",
+    "edu_results": "1A 6B 1C"
+  },
+  {
+    "edu_university": "SRK Iskandar",
+    "edu_logo": "",
+    "edu_qualification": "Ujian Pencapaian Sekolah Rendar (UPSR)",
+    "edu_year": "2001-2006",
+    "edu_results": "3A 2B"
+  },
+  {
+    "edu_university": "Kindergarten Masjid Zahir",
+    "edu_logo": "",
+    "edu_qualification": "Kindergarten",
+    "edu_year": "1999-2000",
+    "edu_results": "Graduated"
+  }
+]

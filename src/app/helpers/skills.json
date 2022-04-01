@@ -1,0 +1,62 @@
+[
+  {
+   "title": "Languages",
+   "items": [
+     {
+       "item": "JavaScript/TypeScript"
+     },
+     {
+       "item": ".NET Framework/.NET Core 3+"
+     },
+     {
+       "item": "Python"
+     },
+     {
+        "item": "C#/VB"
+      },
+     {
+       "item": "Powershell Scripting"
+     }
+   ]
+  },
+  {
+    "title": "Tools/Framework",
+    "items": [
+      {
+        "item": "ReactJS/Angular 10+/VueJS/NextJS/C#/VB.NET/Flask/FastAPI"
+      },
+      {
+        "item": "JQuery/NG-Zorro (Ant Design)/GitHub/GitLab/TFS/Azure DevOps/Postman"
+      },
+      {
+        "item": "OAuth 2.0/JWT Authentication/Docker/Kubernetes/RedHat OpenShift 6+"
+      },
+      {
+        "item": "Microsoft Azure/GCP/AWS/Windows IIS/Firebase/Heroku/Netlify"
+      },
+      {
+        "item": "MSSQL/MySQL/PostgreSQL/MongoDB"
+      },
+      {
+        "item": "Adobe Photoshop/Adobe Illustrator/Adobe Premiere Pro/Adobe After Effects/Adobe XD/Office365/Adobe Lightroom/Photography/Videography"
+      }
+    ]
+   },
+   {
+    "title": "Professional",
+    "items": [
+      {
+        "item": "Effective Communication"
+      },
+      {
+        "item": "Team Player"
+      },
+      {
+        "item": "Problem Solver"
+      },
+      {
+        "item": "Time Management"
+      }
+    ]
+   }
+]

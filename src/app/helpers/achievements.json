@@ -1,0 +1,44 @@
+[
+  {
+    "achievementTitle": "DeveloperKaki Salary Survey Data Visualization",
+    "achievementDescription": "Take initiative to develop and design software developer community in Malaysia (DeveloperKaki) for its data visualization using Google Data Studio. Main objective for this initiative is for balancing the scales of being underpaid or overpaid requires huge deliberation. Oftentimes, leading to a heated discussions.",
+    "achievementRole": "Data Visualization Developer",
+    "achievementLink": "https://datastudio.google.com/u/0/reporting/79dbf003-8d9f-4e71-89b6-66ac6e177f29/page/MOTWC"
+  },
+  {
+    "achievementTitle": "Mobile App Development Tutor - UUM (Non-Profit)",
+    "achievementDescription": "As one of the initiative to give back to the society, I have been approached to be a Mobile App tutor to UUM Bachelor student. This class focuses on Hybrid and Native mobile app development using Ionic and Android Studio.",
+    "achievementRole": "Presenter",
+    "achievementLink": "#"
+  },
+  {
+    "achievementTitle": "BagiFree WebApps - Giveaway your unused item!",
+    "achievementDescription": "A hobby project to provide a platform for Malaysian to giveaway their unused item for free instead of throwing it away. Other people's trash might be other people's gem! This web apps was develop using Angular, TypeORM, PostgreSQL, and AWS.",
+    "achievementRole": "Front-End Developer",
+    "achievementLink": "https://bagifree-5e5d4.web.app/"
+  },
+  {
+    "achievementTitle": "Rentura Mobile Apps - All-in-one rental platform",
+    "achievementDescription": "A failed startup project to bring a new rental business model using on-demand services. This apps allow everyone to rent all kind of items or services using one single apps. Although we received a good number of user registration, however due to Insurance business in Malaysia (that time) is still not ready to support this business model, most of the users reluctant to rent their item without deposits.",
+    "achievementRole": "Back-End Developer/Analyst",
+    "achievementLink": "https://wiser.my/rentura-sewa-pelbagai-jenis-barangan-dari-aplikasi-yang-dibangunkan-oleh-anak-tempatan"
+  },
+  {
+    "achievementTitle": "CariDarah Mobile Apps - On-Demand blood donation",
+    "achievementDescription": "Concerning on the rise of blood donation request by Medical Healthcare in Malaysia. One of the initiative that I've done is develop an on-demand blood donation apps that will help its user to find where to donate their blood or might want to request urgent blood request at nearby healthcare facilities.",
+    "achievementRole": "Full-Stack Developer",
+    "achievementLink": "https://play.google.com/store/apps/details?id=com.kukubytes.caridarah&hl=en&gl=US"
+  },
+  {
+    "achievementTitle": "CyberLaw & CyberSecurity - UUM",
+    "achievementDescription": "In collaboration with UUM and Lawyer from Securities Commission, I was invited to give a talk on Malaysia CyberSecurity landscape to UUM Student and what are the demanding skills for the student to equip before entering career field.",
+    "achievementRole": "Presenter",
+    "achievementLink": "#"
+  },
+  {
+    "achievementTitle": "Champion - Asian English Olympic 2014 in Jakarta",
+    "achievementDescription": "Went into Short Film competition that representative as Malaysia in Jakarta and won the contest as Champion on making the Short Film and 48 Hours short film reels.",
+    "achievementRole": "Main Video Editor",
+    "achievementLink": "https://www.youtube.com/watch?v=noLUEBVIEvg"
+  }
+]
