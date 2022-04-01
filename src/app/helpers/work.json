@@ -134,5 +134,34 @@
     "workMethodologies": "Waterfall Methodologies (Main) | Agile Methodologies (Conditional)",
     "workResponsibilities": "60% Management & 40% Technical",
     "workTechnology": [".NET Framework", "ASP.NET", "C#", ".NET Core 2+", "VB.NET", "Microsoft SQL", "IIS Server", "Angular 3+", "Selenium Automation", "HangFire", "Capital Market & Investment"]
+  },
+  {
+    "workPostition": "Intern",
+    "workType": "Contract",
+    "workTeam": "SKG09 - Traning & Assessment",
+    "workCompany": "PETRONAS Carigali Sdn Bhd",
+    "workCompanyLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Petronas_2013_logo.svg/1200px-Petronas_2013_logo.svg.png",
+    "workDuration": "Jan 2015 - Aug 2015",
+    "workDescription" : "As an intern, I was responsible to develop a simple Training Record web application to record PETRONAS Engineer assessment for promotion. The traditional method was using PPT slides and using Excel. Successfully transformed the traditional method into web apps using PHP Laravel and WampServer.",
+    "workBullet": [
+      {
+        "bullet": "Responsible to develop, deliver, and provide training for the produced web apps to maintain PETRONAS Engineer training record."
+      },
+      {
+        "bullet": "Assist supervisor to setup daily assessment for PETRONAS Engineer."
+      },
+      {
+        "bullet": "Assist colleague on small day-to-day administrative tasks such as preparing slides, conduct a progress meetings, and so on."
+      },
+      {
+        "bullet": "Participate and share developed projects with other intern from cross unit/department/subsidiary."
+      },
+      {
+        "bullet": "Business support for the developed web apps in case of software bugs, enhancement, or a problem."
+      }
+    ],
+    "workMethodologies": "Waterfall Methodologies (Main)",
+    "workResponsibilities": "50% Management & 50% Technical",
+    "workTechnology": ["PHP Laravel", "Bootstrap 2", "Wampserver", "Presentation/Slides skill", "Microsoft Excel"]
   }
 ]
