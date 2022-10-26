@@ -16,6 +16,12 @@
       },
      {
        "item": "Powershell Scripting"
+     },
+     {
+      "item": "PowerBI / Google Data Studio"
+     },
+     {
+      "item": "Microsoft Power Apps (Low-Code No-Code)"
      }
    ]
   },
@@ -23,10 +29,10 @@
     "title": "Tools/Framework",
     "items": [
       {
-        "item": "ReactJS/Angular 10+/VueJS/NextJS/C#/VB.NET/Flask/FastAPI"
+        "item": "NextJS/ReactJS/Angular 10+/VueJS/C#/VB.NET/Flask/FastAPI"
       },
       {
-        "item": "JQuery/NG-Zorro (Ant Design)/GitHub/GitLab/TFS/Azure DevOps/Postman"
+        "item": "Tailwind CSS/JQuery/NG-Zorro (Ant Design)/GitHub/GitLab/TFS/Azure DevOps/Postman"
       },
       {
         "item": "OAuth 2.0/JWT Authentication/Docker/Kubernetes/RedHat OpenShift 6+"
@@ -38,7 +44,7 @@
         "item": "MSSQL/MySQL/PostgreSQL/MongoDB"
       },
       {
-        "item": "Adobe Photoshop/Adobe Illustrator/Adobe Premiere Pro/Adobe After Effects/Adobe XD/Office365/Adobe Lightroom/Photography/Videography"
+        "item": "Figma/dobe Photoshop/Adobe Illustrator/Adobe Premiere Pro/Adobe After Effects/Adobe XD/Office365/Adobe Lightroom/Photography/Videography"
       }
     ]
    },

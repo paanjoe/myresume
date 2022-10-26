@@ -1,12 +1,12 @@
 [
   {
-    "workPostition": "Senior Software Engineer",
+    "workPostition": "Senior Specialist Digialization",
     "workType": "Permanent",
     "workTeam": "Legal, Tax, & Consolidation",
     "workCompany": "BASF Asia Pacific Sdn Bhd",
     "workCompanyLogo": "https://rsb.org/wp-content/uploads/2018/03/BASF-LOGO.jpg",
     "workDuration": "Mar 2022 - Present",
-    "workDescription" : "In the Regulation & Tax product team, I need to give consultation and support BASF business partner in low code and no code solutions. The role require for me to understands functional requirements, designing, enhance, and implementation to provide our internal business partner sustainable state-of-the-art solutions. As a software engineer, I need to manage complex development environments using both internal and external resources and providing Solution Design to the stakeholder.",
+    "workDescription" : "In the Regulation & Tax product team, I need to give consultation and support BASF business partner in digitalize their product through various options (SaaS/SAP/Low-Code-No-Code). The role require for me to develop non-functional requirements, designing, enhance, and implementation to provide our internal & external business partner sustainable state-of-the-art solutions. As a Team Agility Master, I need to manage complex development environments using both internal and external resources and providing Solution Design to the stakeholder.",
     "workBullet": [
       {
         "bullet": "Ensures sustainable and stable solutions from a technical point of view together with operations."
@@ -22,8 +22,8 @@
       }
     ],
     "workMethodologies": "Agile Methodologies (Main) | Waterfall (Conditional)",
-    "workResponsibilities": "30% Technical & 70% Management",
-    "workTechnology": ["Microsoft low code / no code solutions", "Develop AI Models", "Develop and manage App Services (e.g. model-driven apps, process automation apps)", "Microsoft Azure", "AI Builder", "Power Platform services", "Microsoft Power BI", "Angular", ".NET Framework", "SAP Technologies (HANA/Fiori)"]
+    "workResponsibilities": "30% Technical & 70% Management - Team Agility Master for Corporate Legal Sub-Product",
+    "workTechnology": ["SAP MDG, HANA, & BW Consultancy", "Microsoft low code / no code solutions", "Develop AI Models", "Develop and manage App Services (e.g. model-driven apps, process automation apps)", "Microsoft Azure", "AI Builder", "Power Platform services", "Microsoft Power BI", "SAP Technologies (HANA/Fiori)"]
   },
   {
     "workPostition": "Full-Stack Software Developer",
@@ -82,7 +82,7 @@
     "workType": "Contract",
     "workTeam": "Payment - Real-Time Payment Solution",
     "workCompany": "Employee Provident Fund (EPF) Malaysia",
-    "workCompanyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/KWSP_New_Logo_2.svg/1200px-KWSP_New_Logo_2.svg.png",
+    "workCompanyLogo": "https://seeklogo.com/images/K/kwsp-logo-71555A2390-seeklogo.com.png",
     "workDuration": "May 2020 - Oct 2021",
     "workDescription" : "EPF is aiming to transform its business into Digital landscape where it focuses on customer centricity and omni-channel solution. Real-Time Payment Platform (RPP) is a newly created team and I was assigned to develop the framework of this team and also a solutions. Main responsibility for me is to plan the team's KPI, layout the project objective, ROI projection to EPF, cost analysis, and also qualitative and quantitative benefits of this solutions. EPF would like to shift its traditional payment solution into Real-Time payment solution by on-boarding the DuitNow apps, an initiative from Bank Negara Malaysia (BNM).",
     "workBullet": [

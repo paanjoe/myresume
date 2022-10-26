@@ -1,6 +1,24 @@
 [
   {
-    "achievementTitle": "DeveloperKaki Salary Survey Data Visualization",
+    "achievementTitle": "Token/Crypto Revoke Apps (Ongoing)",
+    "achievementDescription": "Similar to Revoke.cash / Debank, when we use a tokens, we need to revoke the allowance permission in our wallet. From the existing apps especially Revoke.cash, I could see some room of improvement can be made such as modernizing the UI/UX, revoke all permission use case, the date information of the permission given, and some other stuff. With the help of my fellow Crypto partner, we are trying to deliver this apps by end of this year and this could kickstart my journey into Blockchain space.",
+    "achievementRole": "Full-Stack Developer",
+    "achievementLink": "#"
+  },
+  {
+    "achievementTitle": "LocumStreet - Community Job-Search Web App (Ongoing)",
+    "achievementDescription": "An initiative apps developed to help local healthcare professional (Doctor, Nurses, Dentist, Pharma) to find a freelance jobs as we could see they're using Facebook Group at the moment to find on-call job. This is an open-source & community driven apps to help local healthcare professional to find job.",
+    "achievementRole": "Full-Stack Developer",
+    "achievementLink": "https://github.com/paanjoe/LocumStreet-Front"
+  },
+  {
+    "achievementTitle": "Catena-X Hackathon by BASF & Porsche Consulting",
+    "achievementDescription": "Joined BASF Internal hackathon and a Winner by developing a MVP product for Quality Data Transfer to all automotive supplier for BASF and analyze revenue stream from the product developed.",
+    "achievementRole": "Analyst & Front-End Developer",
+    "achievementLink": "#"
+  },
+  {
+    "achievementTitle": "DeveloperKaki Salary Survey Data Visualization 2021 & 2022",
     "achievementDescription": "Take initiative to develop and design software developer community in Malaysia (DeveloperKaki) for its data visualization using Google Data Studio. Main objective for this initiative is for balancing the scales of being underpaid or overpaid requires huge deliberation. Oftentimes, leading to a heated discussions.",
     "achievementRole": "Data Visualization Developer",
     "achievementLink": "https://datastudio.google.com/u/0/reporting/79dbf003-8d9f-4e71-89b6-66ac6e177f29/page/MOTWC"
