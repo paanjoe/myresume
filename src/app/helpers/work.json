@@ -31,7 +31,7 @@
     "workTeam": "Internet Hosting",
     "workCompany": "ExxonMobil Digital Hub",
     "workCompanyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Exxon_Mobil_Logo.svg/2560px-Exxon_Mobil_Logo.svg.png",
-    "workDuration": "Jan 2022 - Mar 2022",
+    "workDuration": "Nov 2021 - Mar 2022",
     "workDescription" : "In ExxonMobil Internet Hosting team, my key responsibilities is to explore and develop potential software that can reduce man-hours, workload, and transforming traditional process into automation. As a developer, I have developed a couple of web applications to make a centralized configuration solution to ExxonMobil Global Business (PortMapping, HRP Network model, and more). At the same time, I was also responsible to explore and share on how to use, develop, and maintain Software Defined Perimeter (SDP) by AppGate.",
     "workBullet": [
       {
@@ -50,32 +50,6 @@
     "workMethodologies": "Agile Methodologies (Main) | Waterfall (Conditional)",
     "workResponsibilities": "70% Technical & 30% Management",
     "workTechnology": ["ReactJS", "Software Defined Perimeter (SDP)", "Server Configuration (Linux)", "Python (Flask/FastAPI)", "NodeJS", "GitHub Enterprise", "Microsoft Azure", "Azure DevOps", "Powershell Scripting", "Splunk", "Grafana"]
-  },
-  {
-    "workPostition": "Senior Software Engineer",
-    "workType": "Permanent",
-    "workTeam": "Research & Development Team",
-    "workCompany": "Infovista Sdn Bhd",
-    "workCompanyLogo": "https://cdn.worldvectorlogo.com/logos/infovista-1.svg",
-    "workDuration": "Nov 2021 - Dec 2021",
-    "workDescription" : "As part of R&D Team at InfoVista, I was responsible to implement the best solution from stakeholder decision. The activities include exploring new feature, exploring new technologies, analysis on business requirement, software designing, code implementation, code refactoring, and various test cases. Apart from that, I also need to make sure all of our products are well documentation from technical perspective for references. Other than that, I'm also responsible to be the Acting Scrum Master if the existing Scrum Master unavailable to do daily-standup meetings, retrospective meetings, and more.",
-    "workBullet": [
-      {
-        "bullet": "Be personally responsible that the own produced software follows applicable rules and guidelines that are stated for the organization and actively counteract deviations from these, both own and others deviations."
-      },
-      {
-        "bullet": "Be personally responsible for that the quality of the own produced software are as high as possible within project constraints."
-      },
-      {
-        "bullet": "Actively share knowledge (technical and non technical) with co-workers."
-      },
-      {
-        "bullet": "Aim at finding the root cause to erroneous behaviour in the software, and as far as possible remove the root cause (not the symptom)."
-      }
-    ],
-    "workMethodologies": "Agile Methodologies",
-    "workResponsibilities": "80% Technical & 20% Management",
-    "workTechnology": ["Angular 10+", ".NET C#", ".NET CORE 3+", "GoLang", "Microsoft SQL", "Microsoft Azure", "Azure DevOps", "Kubernetes", "RedHat Openshift 6+", "Confluence Atlassian", "NodeJS", "Karma-Jasmine Unit Test", "Grafana"]
   },
   {
     "workPostition": "Senior System Analyst",
@@ -165,3 +139,7 @@
     "workTechnology": ["PHP Laravel", "Bootstrap 2", "Wampserver", "Presentation/Slides skill", "Microsoft Excel"]
   }
 ]
+
+
+
+

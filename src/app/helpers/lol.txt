@@ -1,0 +1,26 @@
+  // {
+  //   "workPostition": "Senior Software Engineer",
+  //   "workType": "Permanent",
+  //   "workTeam": "Research & Development Team",
+  //   "workCompany": "Infovista Sdn Bhd",
+  //   "workCompanyLogo": "https://cdn.worldvectorlogo.com/logos/infovista-1.svg",
+  //   "workDuration": "Nov 2021 - Dec 2021",
+  //   "workDescription" : "As part of R&D Team at InfoVista, I was responsible to implement the best solution from stakeholder decision. The activities include exploring new feature, exploring new technologies, analysis on business requirement, software designing, code implementation, code refactoring, and various test cases. Apart from that, I also need to make sure all of our products are well documentation from technical perspective for references. Other than that, I'm also responsible to be the Acting Scrum Master if the existing Scrum Master unavailable to do daily-standup meetings, retrospective meetings, and more.",
+  //   "workBullet": [
+  //     {
+  //       "bullet": "Be personally responsible that the own produced software follows applicable rules and guidelines that are stated for the organization and actively counteract deviations from these, both own and others deviations."
+  //     },
+  //     {
+  //       "bullet": "Be personally responsible for that the quality of the own produced software are as high as possible within project constraints."
+  //     },
+  //     {
+  //       "bullet": "Actively share knowledge (technical and non technical) with co-workers."
+  //     },
+  //     {
+  //       "bullet": "Aim at finding the root cause to erroneous behaviour in the software, and as far as possible remove the root cause (not the symptom)."
+  //     }
+  //   ],
+  //   "workMethodologies": "Agile Methodologies",
+  //   "workResponsibilities": "80% Technical & 20% Management",
+  //   "workTechnology": ["Angular 10+", ".NET C#", ".NET CORE 3+", "GoLang", "Microsoft SQL", "Microsoft Azure", "Azure DevOps", "Kubernetes", "RedHat Openshift 6+", "Confluence Atlassian", "NodeJS", "Karma-Jasmine Unit Test", "Grafana"]
+  // },
