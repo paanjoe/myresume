@@ -9,9 +9,6 @@
        "item": ".NET Framework/.NET Core 3+"
      },
      {
-       "item": "Python"
-     },
-     {
         "item": "C#/VB"
       },
      {
@@ -29,22 +26,22 @@
     "title": "Tools/Framework",
     "items": [
       {
-        "item": "NextJS/ReactJS/Angular 10+/VueJS/C#/VB.NET/Flask/FastAPI"
+        "item": "NextJS/ReactJS/Angular 10+/C#/VB.NET"
       },
       {
-        "item": "Tailwind CSS/JQuery/NG-Zorro (Ant Design)/GitHub/GitLab/TFS/Azure DevOps/Postman"
+        "item": "Tailwind CSS/JQuery/NG-Zorro (Ant Design)/Shadcn"
       },
       {
-        "item": "OAuth 2.0/JWT Authentication/Docker/Kubernetes/RedHat OpenShift 6+"
+        "item": "RedHat OpenShift 6+ / SAP HANA / RabbitMQ"
       },
       {
-        "item": "Microsoft Azure/GCP/AWS/Windows IIS/Firebase/Heroku/Netlify"
+        "item": "Microsoft Azure & AWS (Cloud) / Windows IIS (On-Premise)"
       },
       {
         "item": "MSSQL/MySQL/PostgreSQL/MongoDB"
       },
       {
-        "item": "Figma/dobe Photoshop/Adobe Illustrator/Adobe Premiere Pro/Adobe After Effects/Adobe XD/Office365/Adobe Lightroom/Photography/Videography"
+        "item": "Figma"
       }
     ]
    },

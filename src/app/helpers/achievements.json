@@ -33,7 +33,7 @@
     "achievementTitle": "BagiFree WebApps - Giveaway your unused item!",
     "achievementDescription": "A hobby project to provide a platform for Malaysian to giveaway their unused item for free instead of throwing it away. Other people's trash might be other people's gem! This web apps was develop using Angular, TypeORM, PostgreSQL, and AWS.",
     "achievementRole": "Front-End Developer",
-    "achievementLink": "https://bagifree-5e5d4.web.app/"
+    "achievementLink": "#/"
   },
   {
     "achievementTitle": "Rentura Mobile Apps - All-in-one rental platform",
@@ -45,7 +45,7 @@
     "achievementTitle": "CariDarah Mobile Apps - On-Demand blood donation",
     "achievementDescription": "Concerning on the rise of blood donation request by Medical Healthcare in Malaysia. One of the initiative that I've done is develop an on-demand blood donation apps that will help its user to find where to donate their blood or might want to request urgent blood request at nearby healthcare facilities.",
     "achievementRole": "Full-Stack Developer",
-    "achievementLink": "https://play.google.com/store/apps/details?id=com.kukubytes.caridarah&hl=en&gl=US"
+    "achievementLink": "#"
   },
   {
     "achievementTitle": "CyberLaw & CyberSecurity - UUM",
